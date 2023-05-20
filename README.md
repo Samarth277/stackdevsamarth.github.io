@@ -1,6 +1,6 @@
 # Hey, I'm Samarth (@stackdevsamarth)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCS1NeZF0Or2E1RAV9hQJz3g?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCIb08aF5eQB0Ty3zKtjEYqw?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/catalinmpit?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=theonlysamarth)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCS1NeZF0Or2E1RAV9hQJz3g?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCIb08aF5eQB0Ty3zKtjEYqw?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/catalinmpit?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=stackdevsamarth)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](LINKHERE)
 
